@@ -1,0 +1,20 @@
+[build-system]
+requires = ["flit_core >=3.4,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "detailed_gl_report"
+authors = [
+    {name = "Amir", email = "amirmasni@gmail.com"}
+]
+dynamic = ["version", "description"]
+readme = "README.md"
+dependencies = []
+
+[project.urls]
+Home = "https://github.com/yourusername/detailed_gl_report"
+
+[tool.bench.dev-dependencies]
+
+[tool.bench]
+frappe-path = ".."
