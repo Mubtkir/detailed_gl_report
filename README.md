@@ -1,3 +1,21 @@
+<!-- MUBTKIR-UNIFIED-README-START -->
+## تقرير دفتر الأستاذ المفصل | Detailed GL Report
+
+تطبيق لتقرير دفتر الأستاذ المفصل مع عرض البنود والحسابات والتحليلات المحاسبية بوضوح.
+* **الفئة المستهدفة:** المحاسبين والمدراء الماليين ومكاتب المراجعة.
+
+Detailed General Ledger report displaying line-by-line accounting entries and analytics for ERPNext.
+* **Target Audience:** Accountants, CFOs, and auditing firms using ERPNext.
+
+### تواصل معنا | Contact & Sales — [مبتكر للأنظمة السحابية | Mubtkir ERP](https://mubtkir.com)
+
+* 🌐 **الموقع الرسمي | Website:** [Mubtkir ERP — حلول ERPNext السحابية](https://mubtkir.com)
+* 📧 **البريد الإلكتروني | Email:** [sales@mubtkir.com](mailto:sales@mubtkir.com)
+* 📱 **الجوال | Mobile:** [+966547706865](tel:+966547706865)
+* 💬 **واتساب | WhatsApp:** [+966126810486](https://wa.me/966126810486)
+
+<!-- MUBTKIR-UNIFIED-README-END -->
+
 # Detailed GL Report | تقرير دفتر الأستاذ المفصل
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
